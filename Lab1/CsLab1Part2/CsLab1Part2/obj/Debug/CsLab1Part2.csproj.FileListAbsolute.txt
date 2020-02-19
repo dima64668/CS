@@ -1,0 +1,7 @@
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\obj\Debug\CsLab1Part2.csprojAssemblyReference.cache
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\obj\Debug\CsLab1Part2.csproj.CoreCompileInputs.cache
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\bin\Debug\CsLab1Part2.exe.config
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\bin\Debug\CsLab1Part2.exe
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\bin\Debug\CsLab1Part2.pdb
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\obj\Debug\CsLab1Part2.exe
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part2\CsLab1Part2\obj\Debug\CsLab1Part2.pdb

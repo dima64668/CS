@@ -1,0 +1,14 @@
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.exe.config
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.exe
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.pdb
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.csprojAssemblyReference.cache
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.csproj.CoreCompileInputs.cache
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.exe
+D:\Studing\3 курс 2 семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.pdb
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.exe.config
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.exe
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\bin\Debug\CsLab1Part1.pdb
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.csprojAssemblyReference.cache
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.csproj.CoreCompileInputs.cache
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.exe
+D:\Studing\3курс2семестр\CS\Lab1\CsLab1Part1\CsLab1Part1\obj\Debug\CsLab1Part1.pdb
